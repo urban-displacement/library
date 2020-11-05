@@ -18,3 +18,7 @@ Use this repository as a template for all other UDP repositories.
 ## Starting a new UDP repo
 
 Click on the "[Use this template](https://github.com/urban-displacement/template_repo/generate)" button above to create a new repo based on this file structure. Make sure to edit the readme's as necessary. 
+
+## Project Management
+
+Github provides a great format to create tasks using [*issues*](https://github.com/urban-displacement/UDP_repo_template/issues) and [*projects*](https://github.com/urban-displacement/UDP_repo_template/projects)
