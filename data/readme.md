@@ -1,6 +1,6 @@
 # Data Directory
 
-In general, you should not store data on github except when the repo will be made public and certain files are necessary to execute the code. You should use Google Drive to store data in a `data` folder in the respective project folder. Then, use code to pull the data from Google Drive using their API. There's an R package [`googledrive`](https://github.com/tidyverse/googledrive) and a python package [`tbd`]() to do so.  
+In general, you should not store data on github except when the repo will be made public and certain files are necessary to execute the code. You should use Google Drive to store data in a `data` folder in the respective project folder. Then, use code to pull the data from Google Drive using their API. There's an R package [`googledrive`](https://github.com/tidyverse/googledrive) and a [python](https://medium.com/@umdfirecoml/a-step-by-step-guide-on-how-to-download-your-google-drive-data-to-your-jupyter-notebook-using-the-52f4ce63c66c#:~:text=First%2C%20in%20your%20Jupyter%20notebook,from%20the%20Google%20Cloud%20Console.&text=After%20running%20the%20code%20on,to%20enter%20a%20verification%20code) tutorial to do so.  
 
 The reason is that Github allows only 2gb of storage on each repo and you can't upload a file larger than 100mb through `git push`. Because of these limitations, you should zip all your files and unzip them in the code.  
   
