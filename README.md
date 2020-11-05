@@ -1,4 +1,5 @@
-<a href='https://urbandisplacement.org/'><img src='.assets/images/UDP_Logo.png' align="left" height="120" /></a>  
+<a href='https://urbandisplacement.org/'><img src='.assets/images/UDP_Logo.png' align="right" height="120" /></a>  
+
 # The UDP Template Repository 
 
 Use this repository as a template for all other UDP repositories. 
