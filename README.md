@@ -21,4 +21,18 @@ Click on the "[Use this template](https://github.com/urban-displacement/template
 
 ## Project Management
 
-Github provides a great format to create tasks using [*issues*](https://github.com/urban-displacement/UDP_repo_template/issues) and [*projects*](https://github.com/urban-displacement/UDP_repo_template/projects)
+Github provides a great format to create tasks using [*issues*](https://github.com/urban-displacement/UDP_repo_template/issues) and organizing those issues using a [*projects*](https://github.com/urban-displacement/UDP_repo_template/projects) board. 
+
+### Issues
+Like a scientific notebook, issues allow you to define a task and maintain a conversation within that task until completion. It's important to use this protocol so that your project manager and team members can keep track of progress and see what needs to be done. 
+
+* When you start a new issue, give it: 
+	* A title
+	* A description of the task
+	* assign it to a team member
+	* provide a label
+
+You can tag teammembers (e.g. @timthomas) in the description to call their attention to the task. Keep note of the progress of the issue as it matures. 
+
+### Projects 
+Projects allow you to view all your issues on a [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) board to see what needs to be done, what's in progress, and what's finished. 
