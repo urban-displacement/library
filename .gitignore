@@ -177,3 +177,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+#####
+# Mac files that should not be stored
+#####
+.DS_Store
