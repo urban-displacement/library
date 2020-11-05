@@ -4,7 +4,7 @@
 
 Use this repository as a template for all other UDP repositories. 
 
-# Protocol
+## Protocol
 
 * Use Github for project management, code, and outward facing documentation (e.g. html maps, instructions, results, etc.). Folder structure should be: 
 	* code - all code in python or R
@@ -14,3 +14,7 @@ Use this repository as a template for all other UDP repositories.
 	* .asset - images and other repo specific content
 
 * Use Google Drive for large data storage, meeting notes, and pre-release shared documents. 
+
+## Starting a new UDP repo
+
+Click on the "[Use this template](https://github.com/urban-displacement/template_repo/generate)" button above to create a new repo based on this file structure. Make sure to edit the readme's as necessary. 
