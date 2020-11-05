@@ -1,4 +1,4 @@
-# .gitignore ignores files not needed to operate. Below are files created by python and R that should not stored on a repo. 
+# .gitignore ignores files not needed to operate. Below are files created by python and R that should not be stored on a repo. 
 
 #####
 # Python files to ignore
