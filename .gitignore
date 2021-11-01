@@ -181,4 +181,4 @@ vignettes/*.pdf
 #####
 # Mac files that should not be stored
 #####
-.DS_Store
+*.DS_Store*
