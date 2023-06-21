@@ -25,5 +25,8 @@
 
 ls, lsd, tree
 
+# copy
 
-"access_token":"ya29.a0AWY7Ckki1VYe33aOyZFX9oN8vryL7zWgq4F_CopwdoP_a45lYqIpqOykgNzZqs9Ff-MmbMBD5Nr7q-yyprEmx2kRzkmah2TWB9EfRInOqt06-vHvYhXIfKzUO3XKUNZCbg4burjqFrNZy9CYHNjVlAeMrHwuaCgYKAa0SARESFQG1tDrpChwOiIkI8Oj_DY1PyatvrQ0163","token_type":"Bearer","refresh_token":"1//04qxvQjiBKDwBCgYIARAAGAQSNwF-L9IrMvh5J3G35IWtRa-01YH8fJFQtMpJ8i8us2zGSXFpNLQ8F2ghE-xKbWoRv9PZRMdvL9M","expiry":"2023-06-19T12:32:14.631756-06:00"
+`rclone copy gd_udp:CCI\ Docs/Admin box_udp:CCI\ Docs/Admin`
+
+This will create a new folder `Admin` in box if it's not there already
